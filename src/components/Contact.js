@@ -30,7 +30,7 @@ function Contact() {
       alert(error.message)
       setLoader(false);
     });
-
+    
     setName('')
     setEmail('')
     setNumber('')
